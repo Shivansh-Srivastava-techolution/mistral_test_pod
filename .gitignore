@@ -1,0 +1,7 @@
+*.mp4
+*.png
+*.jpeg
+*.jpg
+*.csv
+env/
+*.json
